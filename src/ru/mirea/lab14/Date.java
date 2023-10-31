@@ -21,7 +21,6 @@ public class Date {
                 System.out.println("correct");
             } else{
                 System.out.println("incorrect\ntry again");
-
             }
         }
     }
