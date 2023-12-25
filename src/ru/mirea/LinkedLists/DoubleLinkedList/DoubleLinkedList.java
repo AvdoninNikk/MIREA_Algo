@@ -1,4 +1,4 @@
-package mirea.LinkedLists.DoubleLinkedList;
+package ru.mirea.LinkedLists.DoubleLinkedList;
 
 import java.io.*;
 

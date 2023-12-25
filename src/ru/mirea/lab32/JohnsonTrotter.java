@@ -1,4 +1,4 @@
-package mirea.pr32;
+package ru.mirea.lab32;
 
 import java.lang.*;
 

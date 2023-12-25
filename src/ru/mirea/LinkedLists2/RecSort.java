@@ -1,4 +1,4 @@
-package mirea.LinkedLists2;
+package ru.mirea.LinkedLists2;
 
 public class RecSort {
 

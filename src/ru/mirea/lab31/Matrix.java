@@ -1,4 +1,4 @@
-package mirea.pr41;
+package ru.mirea.lab31;
 
 public class Matrix {
 

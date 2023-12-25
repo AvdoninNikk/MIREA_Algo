@@ -1,4 +1,4 @@
-package mirea.pr27;
+package ru.mirea.lab27;
 
 import java.util.*;
 

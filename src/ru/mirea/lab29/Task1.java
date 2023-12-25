@@ -1,4 +1,4 @@
-package mirea.pr29;
+package ru.mirea.lab29;
 
 import java.util.Scanner;
 

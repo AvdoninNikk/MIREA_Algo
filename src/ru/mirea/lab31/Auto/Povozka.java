@@ -1,4 +1,4 @@
-package mirea.pr41.Auto;
+package ru.mirea.lab31.Auto;
 
 public class Povozka extends Auto{
     @Override

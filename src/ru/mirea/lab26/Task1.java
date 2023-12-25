@@ -1,4 +1,4 @@
-package mirea.pr26;
+package ru.mirea.lab26;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package mirea.pr28;
+package ru.mirea.lab28;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package mirea.pr24;
+package ru.mirea.lab24;
 
 public class ConcreteComplex1 implements Complex {
     private final int real;

@@ -1,4 +1,4 @@
-package mirea.pr28;
+package ru.mirea.lab28;
 
 //HashSet ---->> Treeset
 

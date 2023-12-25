@@ -1,4 +1,4 @@
-package mirea.pr30_1;
+package ru.mirea.lab30_1;
 
 import java.io.File;
 import java.io.FileNotFoundException;

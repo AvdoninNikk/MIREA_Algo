@@ -1,4 +1,4 @@
-package mirea.LinkedLists;
+package ru.mirea.LinkedLists;
 
 import java.io.*;
 import java.util.Scanner;

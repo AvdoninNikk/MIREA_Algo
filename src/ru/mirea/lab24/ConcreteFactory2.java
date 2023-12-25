@@ -1,4 +1,4 @@
-package mirea.pr24;
+package ru.mirea.lab24;
 
 public class ConcreteFactory2 implements ComplexAbstractFactory {
     @Override

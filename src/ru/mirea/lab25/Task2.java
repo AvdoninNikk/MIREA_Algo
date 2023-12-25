@@ -1,4 +1,4 @@
-package mirea.pr25;
+package ru.mirea.lab25;
 
 //все следующие задачи в одном файле тк они однотипные
 

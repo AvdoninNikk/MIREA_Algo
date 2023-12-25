@@ -1,4 +1,4 @@
-package mirea.pr20.Task1and2;
+package ru.mirea.lab20.Task1and2;
 
 public class MyClass<T, V, K> {
     private T t;

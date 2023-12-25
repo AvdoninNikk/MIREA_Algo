@@ -1,4 +1,4 @@
-package mirea.manual2.pr22;
+package ru.mirea.lab22;
 
 import java.util.*;
 

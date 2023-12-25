@@ -1,4 +1,4 @@
-package mirea.pr25;
+package ru.mirea.lab25;
 
 import java.util.Scanner;
 import java.util.Arrays;

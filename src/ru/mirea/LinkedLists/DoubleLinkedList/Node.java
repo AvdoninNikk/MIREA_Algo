@@ -1,4 +1,4 @@
-package mirea.LinkedLists.DoubleLinkedList;
+package ru.mirea.LinkedLists.DoubleLinkedList;
 
 public class Node {
     int data;
